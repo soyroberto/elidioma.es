@@ -11,7 +11,7 @@ app_id = ''
 app_key = ''
 language = 'es'
 #25/03 https://tecadmin.net/python-command-line-arguments/
-#word_id = 'corazón'
+#word_id = La variable para la palabra a buscar
 fields = 'definitions' 
 #origword_id = str(sys.argv[1])
 #https://stackoverflow.com/questions/2194163/python-empty-argument
